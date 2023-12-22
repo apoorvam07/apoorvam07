@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me apoorvakshtriya18@gmail.com
 - 🛠️ Languages and Tools:
-HTML  CSS  JavaScript  SQL   Java  Spring  Git
+HTML  CSS  JavaScript  SQL   Java  ReactJs  Git
 
 
 

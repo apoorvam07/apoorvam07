@@ -1,4 +1,4 @@
-![Mastercard]()
+![Mastercard](https://github.com/apoorvam07/apoorvam07/blob/main/DESIGN.png)
 <h1 align="center">Hi 👋, I'm Apoorva M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

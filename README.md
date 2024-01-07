@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchcmlRrnZ9aubRQ1NtTYyGyMMXDJqNl2uD6lZUn1nqVCjJtFB4d8_0QJlxzFSVEXNEJE&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbA1z7PTXI0PP6fKc1OtGHfpBpzUzJKSMew&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/_apoorva___" target="blank"><img src="https://img.shields.io/twitter/follow/_apoorva___?logo=twitter&style=for-the-badge" alt="_apoorva___" /></a> </p>
 
